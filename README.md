@@ -1,3 +1,3 @@
+# student performance prediction platform
 
-## end to end ml project
-# student_performance_prediction
+
