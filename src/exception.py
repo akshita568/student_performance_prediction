@@ -1,5 +1,5 @@
 import sys
-import logging 
+from src.logger import logging
 
 '''
 just created a custom exception class that behaves like a normal python error but also stores file name and line number where the error happened 
